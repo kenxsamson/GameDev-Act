@@ -1,0 +1,455 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.42f1 (7ade1201f527) revision 8052242'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'en' Physical Memory: 8097 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.42f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Kenneth/Documents/GitHub/GameDev-Act/2DPlatform
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49803
+Successfully changed project path to: C:/Users/Kenneth/Documents/GitHub/GameDev-Act/2DPlatform
+C:/Users/Kenneth/Documents/GitHub/GameDev-Act/2DPlatform
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 69.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.42f1 (7ade1201f527)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Kenneth/Documents/GitHub/GameDev-Act/2DPlatform/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e91)
+    Vendor:   
+    VRAM:     4048 MB
+    Driver:   31.0.101.2114
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002419 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Domain Reload Profiling:
+	ReloadAssembly (888ms)
+		BeginReloadAssembly (97ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (686ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (220ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (124ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004322 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.573 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1574ms)
+		BeginReloadAssembly (211ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1278ms)
+			LoadAssemblies (156ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (450ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (465ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (64ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (267ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2183 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2615.
+Total: 4.328600 ms (FindLiveObjects: 0.251900 ms CreateObjectMapping: 0.146400 ms MarkObjects: 3.762400 ms  DeleteObjects: 0.166300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.test-framework/package.json
+  artifactKey: Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework/package.json using Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca21a561d34704027ca40419ddd41df') in 0.126331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 180.110238 seconds.
+  path: Assets/2DPlatformerAssets
+  artifactKey: Guid(e094447ffac1d714fb9f5a4f62da4360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets using Guid(e094447ffac1d714fb9f5a4f62da4360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f50fbde959a87d59261e9f4ba1edfd6') in 0.011516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.822872 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets
+  artifactKey: Guid(fc5ee07f13baa6e4e9475cc31f816312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets using Guid(fc5ee07f13baa6e4e9475cc31f816312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053a50d2b2ed6f93fd3099f48c3b177c') in 0.006676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.122857 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies
+  artifactKey: Guid(c818e9972d79fc546b929c941f698077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies using Guid(c818e9972d79fc546b929c941f698077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e4859b32e3113c9bb368e954db2aef') in 0.013585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.111073 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/barnacle.png
+  artifactKey: Guid(f238777e1303dd44a989972c9a23b40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/barnacle.png using Guid(f238777e1303dd44a989972c9a23b40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a06004c684202d584dc1d441b6fd7a7') in 0.290242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/sawHalf_move.png
+  artifactKey: Guid(4c666e4ac73a24845ae23a3e673975ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/sawHalf_move.png using Guid(4c666e4ac73a24845ae23a3e673975ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6ef6e06fc38a599e2d69c953e430ec') in 0.019998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/ladybug.png
+  artifactKey: Guid(3b2c598707a667f49855ee6a034ddda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/ladybug.png using Guid(3b2c598707a667f49855ee6a034ddda0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62235536bcfe2f3dd47069c5eb8afb7') in 0.019520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishBlue_fall.png
+  artifactKey: Guid(5ce0e4684574d4245acc916e4ce998de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishBlue_fall.png using Guid(5ce0e4684574d4245acc916e4ce998de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69fe2fea25f938dc803870ab0aea8b48') in 0.029809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishGreen.png
+  artifactKey: Guid(226f7ea050cf5c2428210eff858157f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishGreen.png using Guid(226f7ea050cf5c2428210eff858157f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eeff02a7b4ddf62577c7e3628277a47') in 0.020852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/saw_move.png
+  artifactKey: Guid(24ee3f08dc6d27445ac9a49969b0f664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/saw_move.png using Guid(24ee3f08dc6d27445ac9a49969b0f664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee87811f74766367581d45aa97f400e') in 0.022512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/barnacle_dead.png
+  artifactKey: Guid(c452535c40328f54dbe772cbcecb4eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/barnacle_dead.png using Guid(c452535c40328f54dbe772cbcecb4eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9a5726ddb05f91b1c687d932a6f176') in 0.023304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/bee_move.png
+  artifactKey: Guid(becf9873b4b87d7458b392d0537066f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/bee_move.png using Guid(becf9873b4b87d7458b392d0537066f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7016e74207f38b771ebbb178e4a0b799') in 0.022191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/ladybug_fly.png
+  artifactKey: Guid(7ac5d9dc8fd6efb4fa69c0a946a2a8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/ladybug_fly.png using Guid(7ac5d9dc8fd6efb4fa69c0a946a2a8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50446cdccc8e8fdf1a18faecf614acd8') in 0.019516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlock_dead.png
+  artifactKey: Guid(ee7f3a3b3bc199c4c9240f7d6f685b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlock_dead.png using Guid(ee7f3a3b3bc199c4c9240f7d6f685b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ba6a0951d25c94bb517a467314b0d4') in 0.025847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlock.png
+  artifactKey: Guid(c0cffd0b557b7d34a9a1f28070a8aa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlock.png using Guid(c0cffd0b557b7d34a9a1f28070a8aa22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893d211bc0be3d68e1e1249f9cde0994') in 0.025165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue_dead.png
+  artifactKey: Guid(b779dc617217f5a40ac25018a927cde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue_dead.png using Guid(b779dc617217f5a40ac25018a927cde5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa0166fa02c4c717fe8e8ee4ae97f9c') in 0.028178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/frog_move.png
+  artifactKey: Guid(cc9cfa3bf5143e04ab9617c1332b6545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/frog_move.png using Guid(cc9cfa3bf5143e04ab9617c1332b6545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7985ec99bd7dcbe615ec3337d844445') in 0.055953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fly_dead.png
+  artifactKey: Guid(71280ed51e71ff6498459b89c89248d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fly_dead.png using Guid(71280ed51e71ff6498459b89c89248d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47b5767385daa329809b84f7dda2311') in 0.023081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/bee_dead.png
+  artifactKey: Guid(fbdb61810b7b8b04f85f2b9c7efafc71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/bee_dead.png using Guid(fbdb61810b7b8b04f85f2b9c7efafc71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48fc0bc112dd5da11c2e5d66935dca48') in 0.029845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/bee.png
+  artifactKey: Guid(44bc29d683423354cb51c00da98eab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/bee.png using Guid(44bc29d683423354cb51c00da98eab61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad01ddd7b35098f926b4fc1176ef1834') in 0.018586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/frog_dead.png
+  artifactKey: Guid(91083d1e7c66db045b56a5416a36120a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/frog_dead.png using Guid(91083d1e7c66db045b56a5416a36120a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b8eb2463628ac4c4678d2009f0fcd1') in 0.020557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/saw.png
+  artifactKey: Guid(5d42d2eca8d97d941814074ddd231280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/saw.png using Guid(5d42d2eca8d97d941814074ddd231280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7f896e862f58a05efa2167c24c70da') in 0.022064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/sawHalf.png
+  artifactKey: Guid(427d1794da68d7b4a9306044883f90c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/sawHalf.png using Guid(427d1794da68d7b4a9306044883f90c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39877e0d74ec60e4651cba08d399c896') in 0.025575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishPink_dead.png
+  artifactKey: Guid(1c3acaf681fc8df4d9d3cb61700c790d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishPink_dead.png using Guid(1c3acaf681fc8df4d9d3cb61700c790d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b8b4e21106fd2087fee57a260fd7907') in 0.023521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/mouse.png
+  artifactKey: Guid(3a7ac3042ee804b4ba220b9864fe846d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/mouse.png using Guid(3a7ac3042ee804b4ba220b9864fe846d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e33b1f6b6de7969869f698ff73dd30') in 0.024855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishPink.png
+  artifactKey: Guid(fbed283e0fa54864395ce9b2ffdc87dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishPink.png using Guid(fbed283e0fa54864395ce9b2ffdc87dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51af041ed6b6aa3e1856cc6480ffa76f') in 0.026264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishBlue_dead.png
+  artifactKey: Guid(cd64b42405aa74d42b1631e8eae8f407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishBlue_dead.png using Guid(cd64b42405aa74d42b1631e8eae8f407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb6720cce37fb40912ab249bc357209') in 0.035796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fly_move.png
+  artifactKey: Guid(0ca8a638c664d5449b65cf2a5ba42914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fly_move.png using Guid(0ca8a638c664d5449b65cf2a5ba42914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce3f2d219c541313bc3436359dba8e4') in 0.034658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishPink_move.png
+  artifactKey: Guid(bfdf10d7bdabc5f4e8261c499e695b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishPink_move.png using Guid(bfdf10d7bdabc5f4e8261c499e695b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb7601b39fbf78d11c75e7d134109cb') in 0.020403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/ladybug_move.png
+  artifactKey: Guid(826001f3987bfae47b824234afa61cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/ladybug_move.png using Guid(826001f3987bfae47b824234afa61cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aaabe686ace2ef9767d917c1e9e85dc') in 0.022732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue_hit.png
+  artifactKey: Guid(06af190322d6d8b4aae824b1905b373e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue_hit.png using Guid(06af190322d6d8b4aae824b1905b373e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a570775598b9f425a1653289264671eb') in 0.026413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/frog.png
+  artifactKey: Guid(0ddcf09d909d55c488daea863db3177c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/frog.png using Guid(0ddcf09d909d55c488daea863db3177c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dc40f86a5b5d2352e980168ca71579') in 0.028577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlock_move.png
+  artifactKey: Guid(5dfcbf640a26414499f527e9babc8dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlock_move.png using Guid(5dfcbf640a26414499f527e9babc8dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb578f8ee04b67cd682f34937ea38833') in 0.034700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/mouse_move.png
+  artifactKey: Guid(5647e95894c49824d860892b1657a9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/mouse_move.png using Guid(5647e95894c49824d860892b1657a9cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a77ea743f431013c48e6189477789a') in 0.028124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue_move.png
+  artifactKey: Guid(e2a18908c2998ad40812b62fc106290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue_move.png using Guid(e2a18908c2998ad40812b62fc106290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222bf31d5ebef244a4906b34573b783a') in 0.023666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen.png
+  artifactKey: Guid(fc70215316f0d3b4098d9d315cc8b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen.png using Guid(fc70215316f0d3b4098d9d315cc8b520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3dcae9093e06ddafac0fa16c6334f7') in 0.022723 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen_move.png
+  artifactKey: Guid(a6b5d8b87873da74f9f4d21a7ecbe6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen_move.png using Guid(a6b5d8b87873da74f9f4d21a7ecbe6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa98cf2f35db4b3a0d24d59410ab17bd') in 0.022186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/snail.png
+  artifactKey: Guid(594da9f765cce824c9ef37fee25bb31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/snail.png using Guid(594da9f765cce824c9ef37fee25bb31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f6b81020dee287f71a248d1a2c5016') in 0.023392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple_hit.png
+  artifactKey: Guid(5807126803a72ce4990f3e024b54ef32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple_hit.png using Guid(5807126803a72ce4990f3e024b54ef32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7886c4ecfe17905af99321f16e1a92b3') in 0.030928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple_move.png
+  artifactKey: Guid(aec852385d64809418d40a2282741bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple_move.png using Guid(aec852385d64809418d40a2282741bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873af05b4e945ac6c5f1aa8cb0a7533f') in 0.025039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen_dead.png
+  artifactKey: Guid(ff2102fe19d6c0d4f897d2339b8e24f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen_dead.png using Guid(ff2102fe19d6c0d4f897d2339b8e24f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666e46b4143756242c92542b3c78f015') in 0.028994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple_dead.png
+  artifactKey: Guid(f0e04458a84f76c46badbd69f9f9f8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple_dead.png using Guid(f0e04458a84f76c46badbd69f9f9f8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd53b99adadc2c9cd5821f97bd87335b') in 0.025656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/mouse_dead.png
+  artifactKey: Guid(1499a7f6b5e30a948b65ce624794dc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/mouse_dead.png using Guid(1499a7f6b5e30a948b65ce624794dc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a4d02f972dfd143f5f265e72e8522f') in 0.027766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishGreen_move.png
+  artifactKey: Guid(4fa5f5940fbfd6249bc5e4eec6962958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishGreen_move.png using Guid(4fa5f5940fbfd6249bc5e4eec6962958) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10f1cd2e354081e1951089ce74c3c2e') in 0.055620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple.png
+  artifactKey: Guid(2b10b2a6ed84fb5479e428074ab6bf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimePurple.png using Guid(2b10b2a6ed84fb5479e428074ab6bf3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631a51795443c1a260c6cd3a44f6c232') in 0.025218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishGreen_dead.png
+  artifactKey: Guid(81eeceaf366fb3d48982dc1ac27a3106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishGreen_dead.png using Guid(81eeceaf366fb3d48982dc1ac27a3106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad1e12ab3b2f406c1c62375896084f2') in 0.025313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/saw_dead.png
+  artifactKey: Guid(e6b32f4b59a9daa4992e317885610512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/saw_dead.png using Guid(e6b32f4b59a9daa4992e317885610512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b076d7b762d18e43a8a34de2cbc3cb35') in 0.024150 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/snail_move.png
+  artifactKey: Guid(d7ee40d4a611d2740a80f4cf627e2383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/snail_move.png using Guid(d7ee40d4a611d2740a80f4cf627e2383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b1f5e933b0bc384dd7f935c4a18c38') in 0.021139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue.png
+  artifactKey: Guid(7764cab0697a6074589d42c562ed76c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeBlue.png using Guid(7764cab0697a6074589d42c562ed76c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460af4accd2e8c55442b801033420590') in 0.034200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen_hit.png
+  artifactKey: Guid(9bff48d045784494d920b58b7de55af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/slimeGreen_hit.png using Guid(9bff48d045784494d920b58b7de55af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bdda71919cac98420da28211fb2d4ca') in 0.026444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/sawHalf_dead.png
+  artifactKey: Guid(e641008ab6798e74eaf3dcdfad0089d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/sawHalf_dead.png using Guid(e641008ab6798e74eaf3dcdfad0089d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da3d80583b71be8e15939dee0e96ff2') in 0.020840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fly.png
+  artifactKey: Guid(e425fce6f197ea24ebc738c1e690aad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fly.png using Guid(e425fce6f197ea24ebc738c1e690aad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57231b119a411c635e1419394a2c5231') in 0.022139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishBlue.png
+  artifactKey: Guid(6bd2e3b0d11b79c4bb6d7ef5b83f95fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/fishBlue.png using Guid(6bd2e3b0d11b79c4bb6d7ef5b83f95fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9fca5513fa008fa0af02e286b7ed6d6') in 0.018283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/barnacle_attack.png
+  artifactKey: Guid(39913106683b7f641aaaad5ec5c3caed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DPlatformerAssets/2DPlatformerAssets/Enemies/barnacle_attack.png using Guid(39913106683b7f641aaaad5ec5c3caed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd689c9daf0b7a1194dd3ab04d18e1144') in 0.020560 seconds 
